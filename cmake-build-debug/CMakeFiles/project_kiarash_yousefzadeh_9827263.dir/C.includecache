@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/CLion Projects/project_kiarash yousefzadeh 9827263/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+time.h
+-
+stdbool.h
+-
+

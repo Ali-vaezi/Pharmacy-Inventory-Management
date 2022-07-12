@@ -1,0 +1,3 @@
+G:/CLion Projects/project_kiarash yousefzadeh 9827263/cmake-build-debug/CMakeFiles/project_kiarash_yousefzadeh_9827263.dir
+G:/CLion Projects/project_kiarash yousefzadeh 9827263/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/CLion Projects/project_kiarash yousefzadeh 9827263/cmake-build-debug/CMakeFiles/rebuild_cache.dir
